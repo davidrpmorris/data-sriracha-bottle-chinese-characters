@@ -21,7 +21,7 @@ Free and open source data set of Chinese characters on the sriracha sauce (Huy F
 
 ### BOTTOM FRONT
 
-+ The following table is a list of the Chinese characters on the top front of the Sriracha Sauce bottle. They are listd how they should be read in Chinese: **from left to right.**
++ The following table is a list of the Chinese characters on the bottom front of the Sriracha Sauce bottle. They are listd how they should be read in Chinese: **from left to right.**
 
 |  No. | Chinese | Pinyin |
 |  ------- | ------- | ------- |
