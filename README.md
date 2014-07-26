@@ -37,7 +37,7 @@ Free and open source data set of Chinese characters on the sriracha sauce (Huy F
 
 ### BACK
 
-+ The following table is a list of the Chinese characters on the back of the Sriracha Sauce bottle. They are listed how they should be read in Chinese: **from top to bottom, then from right to left.** There are 60 characters and 1 punctuation mark at the end.
++ The following table is a list of the Chinese characters on the back of the Sriracha Sauce bottle. They are listed how they should be read in Chinese: **from top to bottom, then from right to left.** There are 60 characters and 1 punctuation mark at the end (if space is available on some bottles).
 
 |  -- | chinese | pinyin |
 |  ------- | ------- | ------- |
