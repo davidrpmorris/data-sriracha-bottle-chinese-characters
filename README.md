@@ -2,17 +2,42 @@
 
 Free and open source data set of Chinese characters on the sriracha sauce (Huy Fong Foods) bottle.
 
+### TOP FRONT
 
++ The following table is a list of the Chinese characters on the top front of the Sriracha Sauce bottle. They are listd how they should be read in Chinese: **from right to left.**
 
-### FRONT TOP
+|  No. | Chinese | Pinyin |
+|  ------- | ------- | ------- |
+|  1 | 是 | shì |
+|  2 | 拉 | lā |
+|  3 | 差 | chā |
+|  4 | 香 | xiāng |
+|  5 | 甜 | tián |
+|  6 | 辣 | là |
+|  7 | 椒 | jiāo |
+|  8 | 醬 | jiàng |
 
-### FRONT BOTTOM
+> NOTE: Table generated in Google Spreadsheets with the [MarkdownTableMaker Add-On](https://github.com/pffy/googledocs-addon-markdowntabletwo).
+
+### BOTTOM FRONT
+
++ The following table is a list of the Chinese characters on the top front of the Sriracha Sauce bottle. They are listd how they should be read in Chinese: **from left to right.**
+
+|  No. | Chinese | Pinyin |
+|  ------- | ------- | ------- |
+|  1 | 匯 | huì |
+|  2 | 豐 | fēng |
+|  3 | 食 | shí |
+|  4 | 品 | pĭn |
+|  5 | 公 | gōng |
+|  6 | 司 | sī |
+
+> NOTE: Table generated in Google Spreadsheets with the [MarkdownTableMaker Add-On](https://github.com/pffy/googledocs-addon-markdowntabletwo).
+
 
 ### BACK
 
-+ The following table is a list ofthe Chinese characters on the back of the Sriracha Sauce bottle. They are listed how they should be read in Chinese: from top to bottom, then from right to left. There are 60 characters and 1 punctuation mark at the end.
-
-> NOTE: Table generated in Google Spreadsheets with the [MarkdownTableMaker Add-On](https://github.com/pffy/googledocs-addon-markdowntabletwo).
++ The following table is a list of the Chinese characters on the back of the Sriracha Sauce bottle. They are listed how they should be read in Chinese: **from top to bottom, then from right to left.** There are 60 characters and 1 punctuation mark at the end.
 
 |  -- | chinese | pinyin |
 |  ------- | ------- | ------- |
@@ -78,4 +103,5 @@ Free and open source data set of Chinese characters on the sriracha sauce (Huy F
 |  60 | 保 | băo |
 |  61 | 。 | 。 |
 
+> NOTE: Table generated in Google Spreadsheets with the [MarkdownTableMaker Add-On](https://github.com/pffy/googledocs-addon-markdowntabletwo).
 
