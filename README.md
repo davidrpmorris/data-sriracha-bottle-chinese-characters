@@ -1,6 +1,15 @@
-# `sriracha chinese characters`
+# `Sriracha Bottle Chinese Characters`
 
 Free and open source data set of Chinese characters on the (Huy Fong Foods) sriracha sauce bottle.
+
++ DATA
+  + [TOP FRONT](#TOP_FRONT)
+  + [BOTTOM FRONT](#BOTTOM_FRONT)
+  + [BACK](#BACK)
+
++ METADATA
+  + [CHINESE FREQUENCY LIST](#CHINESE_FREQUENCY_LIST)
+
 
 ### TOP FRONT
 
@@ -113,7 +122,7 @@ Free and open source data set of Chinese characters on the (Huy Fong Foods) srir
 > NOTE: Chinese Frequency List generated in Google Docs with he [ChineseFrequency Add-On](https://chrome.google.com/webstore/detail/chinesefrequency/cjmdjhanmokgfjnbokpfdlfkjieckimg). Table generated in Google Spreadsheets with the [MarkdownTableMaker Add-On](https://chrome.google.com/webstore/detail/markdowntablemaker/cofkbgfmijanlcdooemafafokhhaeold).
 
 
-|  - | hz | py | freq |
+|  No. | Chinese | Pinyin | Count |
 |  ------- | ------- | ------- | ------- |
 |  1 | 香 | xiang1 | 3 |
 |  2 | 椒 | jiao1 | 3 |
