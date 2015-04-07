@@ -1,4 +1,4 @@
-# `Sriracha Bottle Chinese Characters`
+## `Sriracha Bottle Chinese Characters`
 
 Free and open source data set of Chinese characters on the (Huy Fong Foods) sriracha sauce bottle.
 
