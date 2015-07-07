@@ -3,12 +3,12 @@
 Free and open source data set of Chinese characters on the (Huy Fong Foods) sriracha sauce bottle.
 
 + DATA
-  + [TOP FRONT](#TOP_FRONT)
-  + [BOTTOM FRONT](#BOTTOM_FRONT)
-  + [BACK](#BACK)
+  + [TOP FRONT](#top-front)
+  + [BOTTOM FRONT](#bottom-front)
+  + [BACK](#back)
 
 + METADATA
-  + [CHINESE FREQUENCY LIST](#CHINESE_FREQUENCY_LIST)
+  + [CHINESE FREQUENCY LIST](#chinese-frequency-list)
 
 
 ### TOP FRONT
