@@ -119,7 +119,7 @@ Free and open source data set of Chinese characters on the (Huy Fong Foods) srir
 
 + The following table is a frequency list of all the Chinese characters on the front and back of the Sriracha bottle.
 
-> NOTE: Chinese Frequency List generated in Google Docs with he [ChineseFrequency Add-On][freqstore]. Table generated in Google Sheets with the [MarkdownTableMaker Add-On][markdownstore]. Tone marks added to Hanyu Pinyin in Google Sheets with [HanyuPiyinTools][pinyinstore].
+> NOTE: Chinese Frequency List generated in Google Docs with he [ChineseFrequency Add-On][freqstore]. Table generated in Google Sheets with the [MarkdownTableMaker Add-On][markdownstore]. Tone marks added to Hanyu Pinyin in Google Sheets with [HanyuPinyinTools][pinyinstore].
 
 
 |  No. | Chinese | Pinyin | Count |
